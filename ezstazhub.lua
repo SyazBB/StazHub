@@ -226,3 +226,5 @@ local Tab = Window:MakeTab({
 
 Tab:AddLabel("Sorry For The Other Games We Will Do It Later To Suggest")
 Tab:AddLabel("Games (MP On Discord ezstazhub)")
+
+OrionLib:Init()
